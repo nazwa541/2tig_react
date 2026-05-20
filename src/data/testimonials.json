@@ -1,0 +1,34 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ahmad Fauzi",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "comment": "Makanannya enak-enak banget!"
+    },
+    {
+      "id": 2,
+      "name": "Siti Nurhaliza",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "comment": "Rendangnya juara!"
+    },
+    {
+      "id": 3,
+      "name": "Budi Santoso",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "comment": "Aplikasinya mudah digunakan!"
+    },
+    {
+      "id": 4,
+      "name": "Dewi Kartika",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "comment": "Pengiriman tepat waktu!"
+    },
+    {
+      "id": 5,
+      "name": "Rizky Pratama",
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "comment": "Harga terjangkau!"
+    }
+  ]
+}

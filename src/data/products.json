@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng",
+      "price": 45000,
+      "image": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?w=300",
+      "description": "Nasi goreng spesial"
+    },
+    {
+      "id": 2,
+      "name": "Rendang",
+      "price": 55000,
+      "image": "https://images.pexels.com/photos/14746121/pexels-photo-14746121.jpeg?w=300",
+      "description": "Rendang daging sapi"
+    },
+    {
+      "id": 3,
+      "name": "Sate Ayam",
+      "price": 35000,
+      "image": "https://images.pexels.com/photos/7494449/pexels-photo-7494449.jpeg?w=300",
+      "description": "Sate ayam bumbu kacang"
+    },
+    {
+      "id": 4,
+      "name": "Gado-Gado",
+      "price": 30000,
+      "image": "https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?w=300",
+      "description": "Gado-gado sayuran"
+    },
+    {
+      "id": 5,
+      "name": "Mie Goreng",
+      "price": 28000,
+      "image": "https://images.pexels.com/photos/14337064/pexels-photo-14337064.jpeg?w=300",
+      "description": "Mie goreng jawa"
+    },
+    {
+      "id": 6,
+      "name": "Es Teh",
+      "price": 8000,
+      "image": "https://images.pexels.com/photos/324123/pexels-photo-324123.jpeg?w=300",
+      "description": "Es teh manis"
+    }
+  ]
+}
